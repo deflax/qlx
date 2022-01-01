@@ -63,14 +63,12 @@ RUN git clone https://github.com/tjone270/Quake-Live minqlx-plugins-tjone270
 RUN git clone https://github.com/cstewart90/minqlx-plugins minqlx-plugins-cstewart90
 RUN git clone https://github.com/dsverdlo/minqlx-plugins minqlx-plugins-dsverdlo
 RUN git clone https://github.com/x0rnn/minqlx-plugins minqlx-plugins-x0rnn
-RUN git clone https://github.com/x0rnn/minqlx-plugins-1 minqlx-plugins-x0rnn-1
 COPY minqlx-plugins-mainline ql/minqlx-plugins
 COPY minqlx-plugins-tjone270 ql/minqlx-plugins
 COPY minqlx-plugins-tjone270/gamemodes ql/minqlx-plugins 
 COPY minqlx-plugins-cstewart90 ql/minqlx-plugins
 COPY minqlx-plugins-dsverdlo ql/minqlx-plugins
 COPY minqlx-plugins-x0rnn ql/minqlx-plugins
-COPY minqlx-plugins-x0rnn-1 ql/minqlx-plugins
 COPY plugins ql/minqlx-plugins
 RUN cd ql && tar xzf ~/minqlx_v*.tar.gz
 
