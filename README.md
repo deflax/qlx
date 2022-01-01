@@ -14,7 +14,7 @@ To start a new server using this image:
 
 1. Create a directory to store the persistent Redis database files. `mkdir -p data/redis`
 2. Edit configuration in `config/`
-3. Launch the qlx stack using `docker-compose up -d`. This will build and execute redis and qlx servers
+3. Launch the qlx stack using `docker-compose up -d --build`. This will build and execute redis and qlx servers
 
 The image exposes a few environment variables to control deployment:
 

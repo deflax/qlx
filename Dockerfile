@@ -70,8 +70,8 @@ USER root
 RUN wget https://bootstrap.pypa.io/get-pip.py
 RUN python3 get-pip.py
 RUN rm get-pip.py
-RUN python3 -m easy_install pyzmq hiredis
-RUN python3 -m pip install -r minqlx-plugins/requirements.txt
+RUN python3 -m pip install pyzmq hiredis
+RUN python3 -m pip install -r ql/minqlx-plugins/requirements.txt
 RUN chown -R quake:quake ql/
 
 USER quake
