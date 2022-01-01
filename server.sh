@@ -22,4 +22,3 @@ stdbuf -oL -eL /home/${USER}/Steam/steamapps/common/Quake\ Live\ Dedicated\ Serv
     +set zmq_stats_password "stats" \
     +set zmq_stats_port $gameport \
     +set sv_tags "$tags"
-	+ser g_password "$g_password"
