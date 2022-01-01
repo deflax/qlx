@@ -15,14 +15,10 @@ services:
       - "gameport=27960"
       - "location=France"
       - "tags=France,Paris"
-    tags:
-      - qlx
       
   redis-qlx:
     image: redis
     restart: always
     volumes:
-      - data/redis:/data
-    tags:
-      - qlx
+      - ./data/redis:/data
   

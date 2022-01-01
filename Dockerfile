@@ -1,13 +1,12 @@
 # Dockerfile to run a linux quake live server
-FROM ubuntu:20.04
+FROM debian:11
 MAINTAINER Daniel Deflax <daniel@deflax.net>
 
 RUN dpkg --add-architecture i386
 RUN apt-get update
-#RUN apt-get -y upgrade
-RUN apt-get install -y --force-yes libc6:i386 libstdc++6:i386 wget software-properties-common
-RUN apt-get install -y --force-yes python3.6 python3.6-dev redis-server
-RUN apt-get install -y --force-yes build-essential libzmq3-dev
+RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
+RUN apt-get -y upgrade
+RUN apt-get install -y -q libc6:i386 libstdc++6:i386 wget software-properties-common python3 python3-dev build-essential libzmq3-dev
 
 RUN useradd -ms /bin/bash quake
 
@@ -34,7 +33,7 @@ RUN ln -s "Steam/steamapps/common/Quake Live Dedicated Server/" ql
 USER root
 COPY server.sh ql/
 RUN chown quake:quake ql/server.sh
-COPY download-workshop.sh ./
+COPY workshop-download.sh ./
 RUN chown quake:quake download-workshop.sh
 
 COPY config/server.cfg ql/baseq3/
@@ -77,10 +76,10 @@ RUN cd ql && tar xzf ~/minqlx_v*.tar.gz
 
 USER root
 RUN wget https://bootstrap.pypa.io/get-pip.py
-RUN python3.6 get-pip.py
+RUN python3 get-pip.py
 RUN rm get-pip.py
-RUN python3.6 -m easy_install pyzmq hiredis
-RUN python3.6 -m pip install -r minqlx-plugins/requirements.txt
+RUN python3 -m easy_install pyzmq hiredis
+RUN python3 -m pip install -r minqlx-plugins/requirements.txt
 RUN chown -R quake:quake ql/
 
 USER quake
