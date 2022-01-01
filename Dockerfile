@@ -1,12 +1,16 @@
 # Dockerfile to run a linux quake live server
-FROM debian:11
+FROM ubuntu:20.04
 MAINTAINER Daniel Deflax <daniel@deflax.net>
 
 RUN dpkg --add-architecture i386
-RUN apt-get update
 RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
+RUN apt-get update
 RUN apt-get -y upgrade
-RUN apt-get install -y -q libc6:i386 libstdc++6:i386 wget git apt-utils software-properties-common python3 python3-dev build-essential libzmq3-dev
+RUN apt-get install -y -q libc6:i386 libstdc++6:i386 wget git apt-utils software-properties-common build-essential libzmq3-dev
+RUN add-apt-repository ppa:fkrull/deadsnakes
+RUN apt-get update
+RUN apt-get install -y -q python3.5 python3.5-dev
+
 
 RUN useradd -ms /bin/bash quake
 

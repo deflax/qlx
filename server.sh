@@ -10,7 +10,7 @@ if [ "$admin" != "" ]; then
   echo "$admin|admin" > ~/.quakelive/27960/access.txt
 fi
 
-stdbuf -oL -eL /home/${USER}/Steam/steamapps/common/Quake\ Live\ Dedicated\ Server/bin/run_server_x64_minqlx.sh \
+stdbuf -oL -eL /home/${USER}/Steam/steamapps/common/Quake\ Live\ Dedicated\ Server/run_server_x64_minqlx.sh \
     +set net_strict 1 \
     +set net_port $gameport \
     +set sv_hostname "$name" \
