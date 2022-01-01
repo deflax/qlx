@@ -1,0 +1,20 @@
+  {
+    "id": "iffa_jh",
+    "title": "Instagib FFA",
+    "author": "id Software",
+    "description": "Railgun and Gauntlet only. One shot, one kill.",
+    "basegt": "ffa",
+    "cvars": {
+		"g_dropCmds": "0",
+		"g_spawnArmor": "0",
+		"dmflags": "28",
+		"g_instagib": "1",
+		"g_startingWeapons": "65",
+		"timelimit": "15",
+		"g_allowKill": "0",
+		"fraglimit": "50",
+		"g_overtime": "0",
+		"g_loadout": "0"
+    }
+  }
+

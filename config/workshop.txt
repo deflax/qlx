@@ -1,0 +1,1028 @@
+# Get these numbers from the ?id= ending of the workshop URI.
+
+# Quake Live Extras Pack
+539421606
+
+# Quake Live Holiday Pack
+539421982
+
+# More Gametypes
+538941289
+
+# Defrag factories
+561608148
+
+# QLRace.com factories
+543328061
+
+# Pad Maps
+557452835
+
+# Map - Rustgrad
+546664071
+
+# Map - Solitude
+550850908
+
+# DeFRaG map: cSu1_a
+560050165
+
+# Threewave - q3wpak3
+546209430
+546895198
+546129401
+545699336
+546960020
+
+# Map - bigdm6
+547481475
+
+# Maps - OSP (ospca1, ospctf[1,2], ospdm[1..12])
+575312620
+
+# Map - ztn3dm2
+547937675
+
+# Map - q1dm6
+545368609
+
+# Rocket Arena 3
+557591894
+558200805
+553095317
+551367534
+551148976
+550843679
+550674410
+550575965
+550566693
+550003921
+549208258
+551229107
+551699225
+553088484
+# !ra3map12{.,a,b,c}
+563005769
+# !ra3map11{.,a,b,c}
+562987267
+# !ra3map7{.,a,b,c}
+561877295
+# !ra3map4{.,a,b,c}
+561815150
+# !ra3map14{.,a,b,c}
+561683838
+
+# Power maps (kitnamek kitroom kitcapsule dapalace danorthern dacity)
+565451557
+
+# Map - Hogwarts
+565357365
+
+# Defrag maps - cpm_{1..8,10}
+565175871
+
+# Map - marsv1
+565025333
+
+# Maps - polo3dm{2..5}, polo3ctf1
+564946744
+
+# Maps - storm3dm2, storm3tourney{1..6,9}
+564894881
+
+# Defrag map - df_0ups
+564229527
+
+# Defrag map - df_o3jvelocity
+564193729
+
+# Defrag map - df_cityrocket
+564179678
+
+# Map - therage (FFA DUEL CA TDM)
+563655427
+
+# Defrag mappack (df_enz12 df_ghostcheerslick df_ghostslickthis df_liquidazot df_pornstarlambaslick df_ghostcheerextended)
+563581691
+
+# Defrag map - df_jjm2
+563581227
+
+# Defrag map - df_coldrun
+563333349
+
+# Defrag map - df_palmslane
+563284812
+
+# Map - ts_dm5tmp, ts_dm5 (UFT, FFA)
+563105825
+
+# Map - runtfest (UFT, FFA)
+563103303
+
+# Map - fff (UFT, FFA)
+563100435
+
+# Defrag map - df_freestyle88
+562747010
+
+# Defrag mappack - lick
+562739597
+
+# Map - 69pickup1 (UFT, FFA)
+562569404
+
+# Map - sleep (UFT, FFA)
+562564197
+
+# Map - chronic (UFT, FFA)
+562554624
+
+# Defrag map - df_tr1ckhouse
+562451786
+
+# Defrag map - cos1_beta7b
+562448681
+
+# Defrag map - df_pornstarslopin
+562448042
+
+# Defrag map - df_momentum
+561856702
+
+# Defrag mappack - RuSHeR
+561646565
+
+# Defrag map - df_bardokstatik
+561610262
+
+# Map - dm6remix (FFA, CA)
+560647562
+
+# Map - nalq1dm6 (FFA)
+560547573
+
+# Map - oxodm102_b1 (FFA, CA)
+560545593
+
+# Defrag map - df_csu1a
+560050165
+
+# Map - oxodm2a (FFA)
+560548198
+
+# Map - ql_dust, ql_dust2 (FFA, TDM, CA)
+572015381
+
+# Maps - jof3dm1 jof3dm2 (FFA)
+573112415
+
+# Maps - beneath uranus summer winter 
+573898676
+
+# Defrag mappack - Run #1
+569569643
+
+# Defrag mappack - CS
+573229007
+
+# Defrag map - raztrainql_beta3
+568582691
+
+# Defrag map - koz25
+569922415
+
+# Map - cpm28 (FFA, CA, TDM)
+570844629
+
+# Defrag mappack - Freestyle #1
+569570727
+
+# Map - easyshaft (Duel, training)
+578431746
+
+# Map - nemesis (FFA, CA)
+588297581
+
+# Defrag mappack - Run #2
+572919498
+
+# Defrag mappack - Freestyle #2
+572836688
+
+# Maps - qfraggel1 qfraggel2a qfraggel3ffa
+573807159
+
+# Map and mod - maido
+542770475
+
+# Map - okremix (CA, FFA)
+549600167
+
+# Map - proverek (CA, FFA)
+560610357
+
+# Map - 6plus (CA, FFA)
+547252823
+
+# Quake Live Extra Duel Maps
+579717457
+
+# Factory - InstaBounce
+555090786
+
+# Factories - House of Quake CA, TDM, CTF + noHMG
+547440642
+543197560
+
+# Map - Painless (FFA)
+544872333
+
+# Map - Switch (Duel)
+540068166
+
+# Map - aerospace (Duel, FFA)
+582657472
+
+# Map - jex3dm1 (FFA)
+583820600
+
+# Map - ek3dm1 (FFA)
+583821136
+
+# Map - cpm18r (FFA)
+583821497
+
+# Maps - cmp1-dm6 el3dm1 el3t3 el3t4 (Duel, FFA)
+583920201
+
+# Maps - charon3dm{1..13}
+584176488
+
+# Maps - sin wdw3dm3 wdw3dm4 wdw3team1
+584964611
+
+# Map - qxdm3 (FFA)
+584984132
+
+# Map - qxdm4_v2 (FFA)
+584984610
+
+# Maps - rjldm1 rjldm2 rjldm3 rjldom1
+585008637
+
+# Map - hub3aeroq3a (Duel, FFA)
+585060057
+
+# Map - cpm24 (FFA)
+585062856
+
+# Map - davinci (FFA)
+585119731
+
+# Maps - lun3dm{1..4}
+585770260
+
+# Map - psidm7
+585781036
+
+# Map - cpm8
+585784905
+
+# Map - opium
+586817666
+
+# Map - haunted
+586818000
+
+# Maps - 1plus 5plus 6plusplus 7plus 16plus 16plusplus 17plus
+587950516
+
+# Map - bal3dm4
+588238794
+
+# Map - uzul3
+588286307
+
+# Map - q3scamp15mc
+588430438
+
+# Map - bal3void2
+588911765
+
+# Map - cloudwalk (Duel, FFA, CA)
+590113525
+
+# Map - facingworlds (CTF)
+589313020
+
+# Map - gd_tourney1a (Duel)
+600299201
+
+# Map - dust_dm1 (FFA)
+600287256
+
+# Map - geit3dm6 (FFA, Duel)
+599947198
+
+# Map - gridworks (Duel)
+599720061
+
+# Rocket mappack - arenaraiders, ultra, time2fly, gmmoshpitra
+599095486
+
+# Map - ts_ca1 (CA, FFA)
+597920398
+
+# Map - ca_tamb (CA, FFA)
+597914676
+
+# Map - zl3tourney1 (Duel, FFA)
+597391077
+
+# Midair mappack - dade3midair1 endifacid midair1 nmx2 ns_midair qmtdm2 reqbouncerl ts_midair1 
+596113472
+
+# Defrag map - r2v2
+599966641
+
+# Defrag map - lava_hell
+601020709
+
+# Map - JumbyPaddy (CA)
+604249474
+
+# Defrag map - jRace3
+604427316
+
+# Defrag map - mega_ramp
+605120401
+
+# Map - Ra3map11pp (OverkillPP) (CA, FFA)!
+605561819
+
+# Defrag map - plasma_climb
+605613413
+
+# Defrag map - earth_run_v2
+606150607
+
+# Map - heroscerated (FFA)!
+606599547
+
+# Map - bal3dm2 (FFA)
+607023015
+
+# Map - cowdm1 (FFA)
+607026809
+
+# Mappack - Dreamcase (dc_map[01-24], dc_ss4[01-09])
+607031259
+
+# Map - hope (FFA)!
+607034812
+
+# Map - js_tourney1 (Duel, FFA)
+607039540
+
+# Map - klhights (FFA)
+607042346
+
+# Map - lsjg_coop (CA)
+607043831
+
+# Map - nodm18 (Grim DUngeons CPM) (FFA)
+607052130
+
+# Map - pqarena (FFA)
+607054267
+
+# Map - prodcmap7 (CA, FFA)!
+607055481
+
+# Map - q3mexx1 (FFA)
+607057423
+
+# Map - Batcula
+607091191
+
+# Map - rdogdm4 (FFA)
+607063967
+
+# Map - thunda3dm2 (FFA)
+607067048
+
+# Map - uberkill (CA, FFA)
+607068129
+
+# Map - Ra3map2pp (ShakenNotStirredPP) (CA, FFA)
+607909342
+
+# Defrag map - j6torments
+609334248
+
+# Defrag map - dm6b2r
+609946851
+
+# Map - 4sgca1 (CA)
+599576527
+
+# Defrag map - maze
+611099320
+
+# Map - q3megamix (FFA, CA-tbd?)
+614233851
+
+# Defrag map - jSMB
+614245167
+
+# Defrag map - sodomia
+614600179
+
+# Defrag map - grenadorade
+615375236
+
+# Map - phantq3dm6_st (FFA)
+617896584
+
+# Map - q3dm2remix (FFA)
+621993039
+
+# Map - 4sgca2 (CA)
+622119130
+
+# Defrag map - egyptianrun
+622322592
+
+# Map - karist (FFA, CA)
+623436886
+
+# Map - swift (FFA, CA 2x2, Duel)
+624131766
+
+# Map - gleed (FFA, CA 4x4, Duel)
+624142270
+
+# Map - gon (FFA)
+624345614
+
+# Map - gon2 (FFA)
+624352175
+
+# Map - probgmp6 (FFA)
+624433551
+
+# Defrag map - tele_world
+606945800
+
+# Defrag map - supercruton
+612969483
+
+# Gibs
+691078677
+
+# Defrag mappack - kozmini[1-8] - GA,MG,RL
+695779344
+
+# Map - garena4 (FFA, 2v2/3v3 CA)
+689862476
+
+# Defrag map - snorjump2
+688033440
+
+# Defrag map - invmaze
+687312689
+
+# Defrag map - caep4
+686803669
+
+# Map - 6ex (CA, FFA)
+632421088
+
+# Map - damn_q3dm1 (FFA)
+632421451
+
+# Map - q3dm1+ (FFA)
+632421804
+
+# Map - q3dm13remix (FFA)
+632422201
+
+# Map - q3dm3remix (FFA)
+632422465
+
+# Map - q3dm4remix (FFA)
+632422741
+
+# Defrag map - hereannh_gocrazy
+632544048
+
+# Map - lsjgcoop (FFA)
+637350852
+
+# Map - ct3dm4 (FFA) 
+637351306
+
+# Map - dubneoc (FFA)
+638531198
+
+# Map - 2sweet (FFA)
+638616850
+
+# Map - arena66 (FFA)
+638617899
+
+# Map - ci (FFA)
+638618287
+
+# Map - dAdeX (FFA, CA)
+638618725
+
+# Map - e1m7ish3 (FFA)
+638619355
+
+# Map - heffdm17 (FFA, iFFA)
+638619897
+
+# Map - lloydmdm2 (FFA)
+641489075
+
+# Map - pasdm1 (FFA)
+641499246
+
+# Map - goldleaf (FFA, duel)
+641510753
+
+# Map - ospdm14rc1 (FFA)
+641515689
+
+# Map - alm3dm4 (FFA)
+641575854
+
+# Map - xccc_dm7 (FFA)
+641587915
+
+# Map - lffd (FFA)
+642092001
+
+# Map - 13agony (Duel, small FFA)
+645442606
+
+# Defrag map - r7_tang
+646721643
+
+# Defrag map - r7_24
+646760703
+
+# Defrag map - r7_pyramid
+646876888
+
+# Defrag map - flexzstrafe
+646894569
+
+# Defrag map - yellowtorture
+646898990
+
+# Defrag mappack - tatmt_s[1-12]
+649646817
+
+# Map - pizza50/pizzaland (FFA)
+650455521
+
+# Defrag map - b0_beta6
+651773150
+
+# Defrag map - highway
+651777764
+
+# Defrag map - k4n (no weapons, gl_velocity 700 for pql)
+651778110
+
+# Defrag map - infinityql
+653856495
+
+# Defrag map - diniruns
+655296788
+
+# Map - oilrig (Duel, small FFA)
+655639987
+
+# Map - mapel4b (FFA)
+658752401
+
+# Defrag map - weirdwild (no weapons)
+659176776
+
+# Defrag map - ndql (gauntlet only, 1 player)
+660632930
+
+# Map - jaxdm8 (FFA?)
+660785987
+
+# Defrag map - think1
+661457211
+
+# Defrag map - hangtime (G + MG w/1 ammo)
+663160788
+
+# Defrag map - xproject
+664707891
+
+# Defrag map - poptart (Find all, no weapons)
+666142640
+
+# Map - 13yard_xt (FFA, iFFA)
+666692962
+
+# Defrag map - koz24
+667455690
+
+# Map - ole (eye2eye) (FFA, CA)
+668387523
+
+ # Defrag map - blockworld
+668546728
+
+# Map - inversekill (FFA, CA)
+668999226
+
+# !Map - lun3dm5 (FFA, iFFA)
+673458424
+
+# Defrag map - rocketx
+673537614
+
+# Defrag map - plasmax
+673538075
+
+# Defrag map - bfgx
+673538401
+
+# Defrag map - monza
+675230750
+
+# Map - burning1 (FFA)
+675534589
+
+# Map - dum (FFA)
+675597018
+
+# Map - rota3dm2 (FFA)
+675613946
+
+# Map - rota3dm3 (FFA)
+675614269
+
+# Map - rota3dm5 (FFA)
+676102221
+
+# Map - anodm4 (FFA)
+676161253
+
+# Map - dk (FFA)
+676385200
+
+# Map - mksteel (FFA)
+676401107
+
+# Defrag map - runsonic
+677143651
+
+# Defrag map - runstolfer
+679099088
+
+# Defrag map - raveroll
+679099474
+
+# Defrag map - ingus
+679664523
+
+# Defrag map - nmn
+679664828
+
+# Defrag map - pea_impostor
+679665262
+
+# Defrag maps - charon, charon_bw 
+679665619
+
+# Map - q3dmp4 (FFA)
+679928531
+
+# Map - q3dmp11 (FFA)
+679928822
+
+# Map - q3dmp23 (FFA)
+679929214
+
+# Map - auh3dm1 (FFA)
+679953170
+
+# Map - auh3dm2 (FFA)
+679953804
+
+# Map - katdm3 (FFA)
+679954036
+
+# Map - bluemonk (Duel)
+680155352
+
+# Defrag map - northrun
+681336752
+
+# Map - houseby (FFA)
+681775405
+
+# Defrag map - cleanup
+682370813
+
+# Defrag map - inder_carlos
+682371492
+
+# Map - railorfail (iFFA)
+683252686
+
+# Map - arcdm17 (FFA)
+683257730
+
+# Map - battlerail (iFFA)
+683260114
+
+# Defrag map - timelock2
+683361920
+
+# Defrag map - climbworld
+685274478
+
+# Defrag map - bardok_w3sp
+685274958
+
+# Defrag map - Snorjumpb1
+685365842
+
+# Defrag map - aa_oldtemple
+685740904
+
+# Defrag map - dontlookdown (PQL)
+686027793
+
+# Defrag map - marvin
+686803128
+
+# Defrag map - augckjlum6
+686803459
+
+# Defrag map - drtrixiipro
+687336867
+
+# Defrag map - timelock4
+687337028
+
+# Defrag map - aa_hate
+688631176
+
+# Defrag map - strafecave
+691852142
+
+# Defrag map - sl1k_tetris_easy
+692183846
+
+# Defrag map - wsm
+693540516
+
+# Defrag map - straf
+693926546
+
+# Defrag map - wraiths
+694543837
+
+# Defrag map - srr2k5
+694901070
+
+# Defrag map - ashley
+697168969
+
+# Defrag map - stonestrafe3
+697221325
+
+# Defrag map - duotest
+698081815
+
+# Defrag map - zeel_ponpon
+699093502
+
+# Defrag map - entryway
+699406534
+
+# Defrag map - pornstar_quickie1
+699668623
+
+# Killing spree plugin
+701783942
+
+# Map - 13matrix (CA, FFA)
+728480172
+
+# Plugin - INSTAGIB Pack
+715780997
+
+# Defrag map - kairos_nosf
+758112596
+
+# Defrag map - tenuous
+755798648
+
+# Defrag map - benzrun7
+758689905
+
+# Defrag map - cavernish
+758689451
+
+# Map - pillars (Duel, CA 2x2)
+755052815
+
+# Map - railorfail (iFFA)
+752710645
+
+# Defrag map - aa_shorty
+748183485
+
+# Defrag map - aa_way
+748183219
+
+# Defrag map - fun_maze_cbble
+742002548
+
+# Defrag map - r7_timelock
+742002195
+
+# Defrag map - p3nt4_ralco
+740959558
+
+# Defrag map - r7_longevity1
+740804065
+
+# Defrag map - r7_inka
+740803799
+
+# Defrag map - aa_rmg2
+739673225
+
+# Defrag map - aa_lum
+739516114
+
+# Defrag map - tinyplams
+738316099
+
+# Defrag map - blub
+738315727
+
+# Defrag map - runkull
+732017222
+
+# Defrag map - kakao
+731480214
+
+# Defrag map - daytime
+730823825
+
+# Defrag map - xyligan
+728212123
+
+# Defrag map - pgultimate
+727770396
+
+# Defrag map - run_quake
+727679685
+
+# Defrag map - dfwc_xlarve
+727121018
+
+# Defrag map - spiderman
+726300128
+
+# Defrag map - assfag
+725195946
+
+# Defrag map - ameisen_comp2
+723364633
+
+# Map - 13dawn (FFA, CA, iFFA)
+718515663
+
+# Map - eris (CA, iFFA)
+717776752
+
+# Defrag map - elco_maze
+716113528
+
+# Defrag map - runhall
+716113255
+
+# Defrag map - temple_in_perdition
+715645452
+
+# Defrag map - rm_n2_fs
+714734770
+
+# Defrag map - rm_n2
+714734614
+
+# Defrag map - 1lnc
+714266312
+
+# Defrag map - anglepain
+714263055
+
+# Defrag map - city
+714216826
+
+# Defrag map - timelock3
+713441245
+
+# Defrag map - cities_of_gold
+712965224
+
+# Defrag map - pornstarghost3
+712049096
+
+# Map - 13black (FFA, iFFA)
+711676316
+
+# Defrag map - fy_poolparty
+711381812
+
+# Defrag map - nosf_torture1
+711381295
+
+# Defrag map - aa_dmb
+711154452
+
+# Defrag map - r7_hog
+711053994
+
+# Defrag map - r7_coyote
+711053027
+
+# Defrag map - bloxstrafe
+707861377
+
+# Defrag map - boris_torture1
+707810102
+
+# Defrag map - acrobat_torture1
+707807561
+
+# Defrag map - bloxrox2
+707714974
+
+# Defrag map - st1
+706862477
+
+# Defrag map - aa_shades
+706652533
+
+# Defrag map - r7_sanity
+705879615
+
+# Defrag map - r7_romo
+705878601
+
+# Defrag map - r7_hedges
+705878168
+
+# Defrag map - r7_habitual
+705329487
+
+# Defrag map - effect_inder3
+704782462
+
+# Defrag map - inder_failrun4
+704782211
+
+# Defrag map - quartz
+704688453
+
+# Defrag map - inder_luckr2
+704214977
+
+# Defrag map - inder_a1ex
+704214566
+
+# Defrag map - inder_inder
+703072786
+
+# Defrag map - run139
+702925021
+
+# Defrag map - bloxrox
+702633127
+
+# Defrag map - randomshite
+701032296
+
+# Defrag map - wub_junk
+701015166
+
+# Defrag map - jumpspace
+700573635

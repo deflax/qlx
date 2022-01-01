@@ -1,0 +1,36 @@
+# specify 1 map per line, mapname|factoryid
+# ex: aerowalk|ffa
+# see factories.txt for valid factory id values
+almostlost|tdm
+arcanecitadel|tdm
+blackcathedral|tdm
+chemicalreaction|tdm
+bloodrun|tdm
+lostworld|tdm
+furiousheights|tdm
+campgrounds|tdm
+asylum|tdm
+cliffside|tdm
+theedge|tdm
+quarantine|tdm
+spacechamber|tdm
+tornado|tdm
+trinity|tdm
+devilish|tdm
+leviathan|tdm
+foolishlegacy|tdm
+deepinside|tdm
+dreadfulplace|tdm
+demonkeep|tdm
+dredwerkz|tdm
+purgatory|tdm
+limbus|tdm
+ragnarok|tdm
+grimdungeons|tdm
+deepinside|tdm
+dreadfulplace|tdm
+grimdungeons|tdm
+limbus|tdm
+purgatory|tdm
+ragnarok|tdm
+tornado|tdm

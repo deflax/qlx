@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  qlx:
+    image: qlx:latest
+    build:
+      context: .
+    links:
+      - "redis-qlx:redis"
+    ports:
+      - "27960:27960/udp"
+      - "27960:27960/tcp"
+    restart: always
+    environment:
+      - "gameport=27960"
+      - "location=France"
+      - "tags=France,Paris"
+    tags:
+      - qlx
+      
+  redis-qlx:
+    image: redis
+    restart: always
+    volumes:
+      - data/redis:/data
+    tags:
+      - qlx
+  
