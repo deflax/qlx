@@ -20,5 +20,5 @@ services:
     image: redis
     restart: always
     volumes:
-      - ./data/redis:/data
+      - ./data/redis:/data:rw
   

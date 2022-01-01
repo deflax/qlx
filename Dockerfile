@@ -34,7 +34,7 @@ USER root
 COPY server.sh ql/
 RUN chown quake:quake ql/server.sh
 COPY workshop-download.sh ./
-RUN chown quake:quake download-workshop.sh
+RUN chown quake:quake workshop-download.sh
 
 COPY config/server.cfg ql/baseq3/
 RUN chown quake:quake ql/baseq3/server.cfg
@@ -53,7 +53,7 @@ RUN chown -R quake:quake .quakelive
 
 USER quake
 # download the workshop items
-#RUN ./download-workshop.sh
+#RUN ./workshop-download.sh
 
 # download and install latest minqlx
 # http://stackoverflow.com/a/26738019
