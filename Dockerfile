@@ -42,7 +42,7 @@ RUN chown quake:quake ql/baseq3/server.cfg
 COPY config/mappools/mappool_pqlctf.txt ql/baseq3/mappool.txt
 RUN chown quake:quake ql/baseq3/mappool.txt
 
-COPY pqlctf.factories ql/baseq3/scripts/
+COPY config/factories/pqlctf.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 
 COPY config/workshop.txt ql/baseq3/
