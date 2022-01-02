@@ -17,11 +17,16 @@
          "timelimit":"20",
          "capturelimit":"8",
          "mercylimit":"5",
+         "g_overtime":"120",
          "g_allowKill":"0",
     	 "g_damage_lg":"6",
-         "g_damage_g":"100",
-         "g_overtime":"120",
-         "g_itemtimers": "0"
+         "g_itemtimers":"0",
+         "g_allowVote":"1",
+         "g_voteLimit":"2",
+         "g_allowVoteMidgame":"0",
+         "g_allowSpecVote":"0",
+         "g_voteFlags":"0",
+         "
       }
    }
 ]
