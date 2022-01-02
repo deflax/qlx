@@ -50,7 +50,7 @@ RUN chown quake:quake ql/baseq3/mappool.txt
 COPY config/factories/qlxctf.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 
-COPY config/workshop_selected.txt ql/baseq3/workshop.txt
+COPY config/workshop_empty.txt ql/baseq3/workshop.txt
 RUN chown quake:quake ql/baseq3/workshop.txt
 
 COPY config/acl/access_qlx.txt .quakelive/27960/baseq3/access.txt
