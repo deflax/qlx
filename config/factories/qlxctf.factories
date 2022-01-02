@@ -25,8 +25,7 @@
          "g_voteLimit":"2",
          "g_allowVoteMidgame":"0",
          "g_allowSpecVote":"0",
-         "g_voteFlags":"0",
-         "
+         "g_voteFlags":"0"
       }
    }
 ]
