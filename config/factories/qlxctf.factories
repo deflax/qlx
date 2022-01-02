@@ -16,7 +16,7 @@
          "roundlimit":"8",
          "timelimit":"20",
          "capturelimit":"8",
-         "mercylimit":"5"
+         "mercylimit":"5",
          "g_allowKill":"0",
     	 "g_damage_lg":"6",
          "g_damage_g":"100",
