@@ -6,8 +6,9 @@ RUN dpkg --add-architecture i386
 RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
 RUN apt-get update
 RUN apt-get -y upgrade
-RUN apt-get install -y -q libc6:i386 libstdc++6:i386 wget git apt-utils software-properties-common build-essential libzmq3-dev
-RUN add-apt-repository ppa:fkrull/deadsnakes
+RUN apt-get install -y -q apt-utils software-properties-common
+RUN apt-get install -y -q libc6:i386 libstdc++6:i386 wget git build-essential libzmq3-dev
+RUN add-apt-repository ppa:deadsnakes
 RUN apt-get update
 RUN apt-get install -y -q python3.5 python3.5-dev
 
@@ -49,7 +50,7 @@ RUN chown quake:quake ql/baseq3/mappool.txt
 COPY config/factories/pqlctf.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 
-COPY config/workshop.txt ql/baseq3/
+COPY config/workshop_selected.txt ql/baseq3/workshop.txt
 RUN chown quake:quake ql/baseq3/workshop.txt
 
 COPY config/acl/access_qlx.txt .quakelive/27960/baseq3/access.txt
@@ -71,11 +72,12 @@ COPY plugins ql/minqlx-plugins
 RUN cd ql && tar xzf ~/minqlx_v*.tar.gz
 
 USER root
-RUN wget https://bootstrap.pypa.io/get-pip.py
-RUN python3 get-pip.py
+#RUN wget https://bootstrap.pypa.io/get-pip.py
+RUN wget https://bootstrap.pypa.io/pip/3.5/get-pip.py
+RUN python3.5 get-pip.py
 RUN rm get-pip.py
-RUN python3 -m pip install pyzmq hiredis
-RUN python3 -m pip install -r ql/minqlx-plugins/requirements.txt
+RUN python3.5 -m pip install pyzmq hiredis
+RUN python3.5 -m pip install -r ql/minqlx-plugins/requirements.txt
 RUN chown -R quake:quake ql/
 
 USER quake
