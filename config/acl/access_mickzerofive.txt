@@ -1,4 +1,0 @@
-# mickzerofive's access control list:
-
-# admin 1, darksab0r
-76561198032849113|admin
