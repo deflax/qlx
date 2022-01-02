@@ -13,6 +13,7 @@
          "g_startingHealthBonus":"0",
          "g_startingWeapons":"3",
          "g_speed":"320",
+         "teamsize":"4",
          "roundlimit":"8",
          "timelimit":"20",
          "capturelimit":"8",
