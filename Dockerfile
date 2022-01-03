@@ -68,7 +68,7 @@ COPY config/server.cfg ql/baseq3/
 RUN chown quake:quake ql/baseq3/server.cfg
 COPY config/mappools/mappool_qlx.txt ql/baseq3/mappool.txt
 RUN chown quake:quake ql/baseq3/mappool.txt
-COPY config/factories/qlxctf.factories ql/baseq3/scripts/
+COPY config/factories/qlx.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 COPY config/workshop_qlx.txt ql/baseq3/workshop.txt
 RUN chown quake:quake ql/baseq3/workshop.txt
