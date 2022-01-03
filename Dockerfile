@@ -41,21 +41,6 @@ RUN chown quake:quake ql/server.sh
 COPY workshop-download.sh ./
 RUN chown quake:quake workshop-download.sh
 
-COPY config/server.cfg ql/baseq3/
-RUN chown quake:quake ql/baseq3/server.cfg
-
-COPY config/mappools/mappool_qlxctf.txt ql/baseq3/mappool.txt
-RUN chown quake:quake ql/baseq3/mappool.txt
-
-COPY config/factories/qlxctf.factories ql/baseq3/scripts/
-RUN chown -R quake:quake ql/baseq3/scripts
-
-COPY config/workshop_empty.txt ql/baseq3/workshop.txt
-RUN chown quake:quake ql/baseq3/workshop.txt
-
-COPY config/acl/access_qlx.txt .quakelive/27960/baseq3/access.txt
-RUN chown -R quake:quake .quakelive
-
 USER quake
 # download the workshop items
 #RUN ./workshop-download.sh
@@ -78,6 +63,17 @@ RUN python3.5 get-pip.py
 RUN rm get-pip.py
 RUN python3.5 -m pip install pyzmq hiredis
 RUN python3.5 -m pip install -r ql/minqlx-plugins/requirements.txt
+
+COPY config/server.cfg ql/baseq3/
+RUN chown quake:quake ql/baseq3/server.cfg
+COPY config/mappools/mappool_qlxctf.txt ql/baseq3/mappool.txt
+RUN chown quake:quake ql/baseq3/mappool.txt
+COPY config/factories/qlxctf.factories ql/baseq3/scripts/
+RUN chown -R quake:quake ql/baseq3/scripts
+COPY config/workshop_qlx.txt ql/baseq3/workshop.txt
+RUN chown quake:quake ql/baseq3/workshop.txt
+COPY config/acl/access_qlx.txt .quakelive/27960/baseq3/access.txt
+RUN chown -R quake:quake .quakelive
 RUN chown -R quake:quake ql/
 
 USER quake
