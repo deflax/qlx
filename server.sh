@@ -14,7 +14,7 @@ stdbuf -oL -eL /home/${USER}/Steam/steamapps/common/Quake\ Live\ Dedicated\ Serv
     +set net_strict 1 \
     +set net_port $gameport \
     +set sv_hostname "$name" \
-    +set sv_mapPoolFile "$mappool" \
+    +set sv_mapPoolFile "mappool_$mappool.txt" \
     +set fs_homepath /home/${USER}/.quakelive/27960 \
     +set zmq_rcon_enable 1 \
     +set zmq_rcon_password "$rcon_password" \
