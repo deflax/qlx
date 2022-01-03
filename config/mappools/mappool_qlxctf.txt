@@ -1,8 +1,0 @@
-# specify 1 map per line, mapname|factoryid
-# ex: aerowalk|ffa
-# see factories.txt for valid factory id values
-finnegans|qlxctf
-infinity|qlxctf
-ironworks|qlxctf
-japanesecastles|qlxctf
-spidercrossings|qlxctf
