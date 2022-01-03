@@ -66,8 +66,11 @@ RUN python3.5 -m pip install -r ql/minqlx-plugins/requirements.txt
 
 COPY config/server.cfg ql/baseq3/
 RUN chown quake:quake ql/baseq3/server.cfg
-COPY config/mappools/mappool_qlx.txt ql/baseq3/mappool.txt
-RUN chown quake:quake ql/baseq3/mappool.txt
+COPY config/mappools/mappool_default.txt ql/baseq3/mappool.txt
+COPY config/mappools/mappool_qlxctf.txt ql/baseq3/mappool_qlxctf.txt
+COPY config/mappools/mappool_qlxtdm.txt ql/baseq3/mappool_qlxtdm.txt
+COPY config/mappools/mappool_qlxft.txt ql/baseq3/mappool_qlxft.txt
+RUN chown quake:quake ql/baseq3/mappool*
 COPY config/factories/hoq.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 COPY config/workshop_qlx.txt ql/baseq3/workshop.txt
