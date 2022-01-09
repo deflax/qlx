@@ -1,3 +1,10 @@
 # Factories - House of Quake CA, TDM, CTF + noHMG
 #547440642
 543197560
+
+# Threewave - q3wpak3
+546209430
+546895198
+546129401
+545699336
+546960020
