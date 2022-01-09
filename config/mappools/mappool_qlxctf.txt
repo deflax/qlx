@@ -1,5 +1,4 @@
-rebound|hoq_ctf
+q3wcp9|hoq_ctf
 infinity|hoq_ctf
 ironworks|hoq_ctf
 japanesecastles|hoq_ctf
-spidercrossings|hoq_ctf
