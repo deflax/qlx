@@ -12,6 +12,7 @@ services:
       - "27960:27960/tcp"
     restart: always
     environment:
+      - "public=0"
       - "gameport=27960"
       - "location=France"
       - "tags=France,Paris"

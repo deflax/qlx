@@ -23,6 +23,7 @@ The image exposes a few environment variables to control deployment:
 3. `gameport`: The port to start the server on.
 4. `rconport`: The port to listen for remote rcon connections from.
 5. `mappool`: File name of used mappool
+6. `public`: Sets the server public using sv_master
 
 To use a custom server configuration, or to add additional files, you can either fork this repository and edit the included files and then build a new image, mount the files into the container using docker's `-v localpath:containerpath` option, or go into the container and edit them manually using `sudo docker exec -t -i containerid /bin/bash`
 
