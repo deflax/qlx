@@ -71,7 +71,7 @@ COPY config/mappools/mappool_qlxctf.txt ql/baseq3/mappool_qlxctf.txt
 COPY config/mappools/mappool_qlxtdm.txt ql/baseq3/mappool_qlxtdm.txt
 COPY config/mappools/mappool_qlxft.txt ql/baseq3/mappool_qlxft.txt
 RUN chown quake:quake ql/baseq3/mappool*
-COPY config/factories/hoq.factories ql/baseq3/scripts/
+COPY config/factories/qlxft.factories ql/baseq3/scripts/
 RUN chown -R quake:quake ql/baseq3/scripts
 COPY config/workshop_qlx.txt ql/baseq3/workshop.txt
 RUN chown quake:quake ql/baseq3/workshop.txt

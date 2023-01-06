@@ -1,2 +1,3 @@
+campgrounds|ft
 warehouse|ft
 theedge|ft

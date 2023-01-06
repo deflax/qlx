@@ -3,7 +3,7 @@ gameport=${gameport:-'27960'}
 rconport=${rconport:-'28960'}
 location=${location:-'FR Paris'}
 name=${name:-"CTF [$location]"}
-mappool=${mappool:-"mappool.txt"}
+mappool=${mappool:-"mappool"}
 rcon_password=${rcon_password:-"q!231n00b"}
 
 if [ "$admin" != "" ]; then
