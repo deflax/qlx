@@ -6,6 +6,9 @@
 # Admin 0
 76561198261482853|admin
 
+# Admin 1
+76561198219336009|admin
+
 # Blacklist for cheaters, douchebags who play shitty music all the time or constantly callvote random shit
 76561198091554251|ban
 76561198205450556|ban
@@ -34,10 +37,10 @@
 76561198353030823|ban
 
 # Racists should be banned
+
 # lilz
 76561198255927482|ban
+
 # marine_
 76561197999091423|ban
-
-# you|ban :)
 
