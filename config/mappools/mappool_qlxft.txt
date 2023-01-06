@@ -1,4 +1,7 @@
+6plus|qlxft
 almostlost|qlxft
+wintersedge|qlxft
+warehouse|qlxft
 blackcathedral|qlxft
 brimstoneabbey|qlxft
 chemicalreaction|qlxft
@@ -8,10 +11,7 @@ furiousheights|qlxft
 campgrounds|qlxft
 asylum|qlxft
 cliffside|qlxft
-theedge|qlxft
-longestyard|qlxft
 quarantine|qlxft
-spacechamber|qlxft
 tornado|qlxft
 trinity|qlxft
 leviathan|qlxft
@@ -26,9 +26,6 @@ limbus|qlxft
 ragnarok|qlxft
 retribution|qlxft
 solid|qlxft
-warehouse|qlxft
 arcanecitadel|qlxft
 realmofsteelrats|qlxft
-wintersedge|qlxft
-6plus|qlxft
 battleforged|qlxft
