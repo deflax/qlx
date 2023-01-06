@@ -3,7 +3,7 @@ wintersedge|qlxft
 lostwinter|qlxft
 longestwinter|qlxft
 demonwinter|qlxft
-winterdunegons|qlxft
+winterdungeons|qlxft
 winterrun|qlxft
 winterfortress|qlxft
 winterasylum|qlxft
