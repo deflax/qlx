@@ -4,7 +4,7 @@ services:
   qlx:
     image: qlx:latest
     build:
-      context: .
+      context: ./qlx/
     links:
       - "redis-qlx:redis"
     ports:
@@ -14,12 +14,13 @@ services:
     environment:
       - "public=0"
       - "gameport=27960"
-      - "location=France"
-      - "tags=France,Paris"
-      
+      - "name=QLChill"
+      - "location=Frankfurt"
+      - "tags=chill,ft,minqlx"
+      - "mappool=qlxft"
+      - "rcon_password=hackme"
   redis-qlx:
     image: redis
     restart: always
     volumes:
       - ./data/redis:/data:rw
-  
