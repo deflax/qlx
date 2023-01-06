@@ -1,10 +1,7 @@
-wintercampgrounds|qlxft
 wintersedge|qlxft
-lostwinter|qlxft
-longestwinter|qlxft
-demonwinter|qlxft
 winterdungeons|qlxft
 winterrun|qlxft
 winterfortress|qlxft
+longestwinter|qlxft
+demonwinter|qlxft
 winterasylum|qlxft
-almostwinter|qlxft
